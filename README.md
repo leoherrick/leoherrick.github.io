@@ -4,6 +4,6 @@ leoherrick.github.io
 # Welcome to my Github docs
 
 Check out:
-[jquery.mutuallyExclusive](https://github.com/leoherrick/jquery.mutuallyExclusive)
+[jquery.mutuallyExclusive](leoherrick.github.io/jquery.mutuallyExclusive)
 
 
